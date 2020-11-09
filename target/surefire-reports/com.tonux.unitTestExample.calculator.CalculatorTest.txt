@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.tonux.unitTestExample.calculator.CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.289 sec
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.112 sec
