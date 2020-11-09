@@ -55,7 +55,7 @@ public class CalculatorTest {
 	@Test 
 	public void testMax(){
 		int max = calculator.max(2000, -2000);
-		Assert.assertEquals(-2000,max);
+		Assert.assertEquals(2000,max);
 	}
 
 }
