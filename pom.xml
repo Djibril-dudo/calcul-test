@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tonux.org</groupId>
-    <artifactId>calculator-test.java</artifactId>
+    <artifactId>calculator-test</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
     <description>Simple jUnit test example</description>
