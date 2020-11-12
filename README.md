@@ -10,7 +10,7 @@ docker build -t nom:tag .
 
 ex : docker build -t tp-sir:1.1.0 .
 
-2 - VERIFIER SI l'image est bien créée
+2 - VERIFIER SI l'image est bien créée:
 
 docker images
 

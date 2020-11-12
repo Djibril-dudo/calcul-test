@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e53892f5-7c8f-42e5-a539-4c4546f966d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tonux/unitTestExample/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tonux/unitTestExample/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +61,6 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="JUnit.CalculatorTest (1)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CalculatorTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calculator-unit-test-example-java" />
       <extension name="coverage">
@@ -120,7 +108,8 @@
       <updated>1604303037176</updated>
       <workItem from="1604303038309" duration="1817000" />
       <workItem from="1604341520681" duration="4038000" />
-      <workItem from="1604936400748" duration="2959000" />
+      <workItem from="1604936400748" duration="3203000" />
+      <workItem from="1604997717880" duration="9000" />
     </task>
     <servers />
   </component>
